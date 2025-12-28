@@ -1,2 +1,2 @@
 # New_idris
-this is new git repository
+This is new git repository
